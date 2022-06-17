@@ -1,1 +1,1 @@
-# argocd_wiremock-app
+# argocd_wiremock_app
